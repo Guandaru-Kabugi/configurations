@@ -1,5 +1,5 @@
 build:
   id: 111
-  version: 11.21.21
-  name: "dev git application"
-  type: "dev git type"
+  version: 11.11.11
+  name: "default git application"
+  type: "default git type"
